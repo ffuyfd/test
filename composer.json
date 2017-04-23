@@ -1,0 +1,19 @@
+{
+    "name": "ffuyfd/test",
+    "description": "gdpay",
+    "keywords": ["test"],
+    "homepage": "https://github.com/ffuyfd/test",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "ffuyfd",
+            "email": "ffuyfd@163.com",
+            "homepage": "https://github.com/ffuyfd/test/wiki"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+    },
+    "version": "1.0"
+}
